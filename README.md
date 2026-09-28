@@ -1,7 +1,6 @@
-﻿#🏠  Reto_Karate_Septiembre_2026
-
+# 🏠  Proyecto  - Reto Karate**﻿
+- 👨‍💻 Autor Sandra Milena Peña Castellanos🌟 - QA Analyst.
  
- -👨‍💻 Autor Sandra Milena Peña Castellanos🌟 - QA Analyst.
 
 Este proyecto esta basado en el Freamework de Karate y comunicación de API de servicios SOAP 
 Para esta ocasión se realiza un CRUD ( GET, POST, PUT, DELETE).
