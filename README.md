@@ -1,6 +1,8 @@
 ﻿#🏠  Reto_Karate_Septiembre_2026
- -👨‍💻 Autor 🌟Sandra Milena Peña Castellanos🌟 - QA Analyst.
-📝
+
+ 
+ -👨‍💻 Autor Sandra Milena Peña Castellanos🌟 - QA Analyst.
+
 Este proyecto esta basado en Karate y en servicios SOAP para el cual se realiza CRUD ( GET, POST, PUT, DELETE).
 
 ##⚙️Prerequisitos de Intalación
@@ -34,18 +36,17 @@ IntelliJIDEA versión 2026.2 -JCEF version: 144.0.15-262-b37 - VM: OpenJDK 64-Bi
   <img width="1620" height="243" alt="image" src="https://github.com/user-attachments/assets/d460454b-6140-4dba-b06a-26e0acb6ad26" />
     </p>
 
-  - POST  -  Usuario
+- POST  -  Usuario
    <p align="center">
  <img width="1618" height="293" alt="image" src="https://github.com/user-attachments/assets/00135372-cebf-45e5-a270-4b083cd661c6" />
      </p>
 
 - PUT  -  Usuario
-
 <p align="center">
 <img width="1617" height="267" alt="image" src="https://github.com/user-attachments/assets/0fd07dc9-f561-404d-b847-289e469e061c" />
 </p>
 
--DELETE
+- DELETE
 <p align="center">
 <img width="1618" height="225" alt="image" src="https://github.com/user-attachments/assets/5ae8f25d-d859-4c82-9487-d9fb4f51d730" />
 </p>
