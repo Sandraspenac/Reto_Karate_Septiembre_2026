@@ -3,7 +3,9 @@
  
  -👨‍💻 Autor Sandra Milena Peña Castellanos🌟 - QA Analyst.
 
-Este proyecto esta basado en Karate y en servicios SOAP para el cual se realiza CRUD ( GET, POST, PUT, DELETE).
+Este proyecto esta basado en el Freamework de Karate y comunicación de API de servicios SOAP 
+Para esta ocasión se realiza un CRUD ( GET, POST, PUT, DELETE).
+
 
 ##⚙️Prerequisitos de Intalación
 
@@ -17,7 +19,7 @@ IntelliJIDEA versión 2026.2 -JCEF version: 144.0.15-262-b37 - VM: OpenJDK 64-Bi
 🧪Escenarios de pruebas automatizados
 - CRUD ( GET, POST, PUT, DELETE).
 <p align="center">
-  <img width="1056" height="976" alt="image" src="https://github.com/user-attachments/assets/0c17fd4b-6ae4-48bb-b1ad-7fe63c829536" />
+  <img width="1048" height="946" alt="image" src="https://github.com/user-attachments/assets/a13506f5-f4f5-4d50-b62f-4152b699499d" />
   </p>
   
 <p align="center">
@@ -50,6 +52,7 @@ IntelliJIDEA versión 2026.2 -JCEF version: 144.0.15-262-b37 - VM: OpenJDK 64-Bi
 <p align="center">
 <img width="1618" height="225" alt="image" src="https://github.com/user-attachments/assets/5ae8f25d-d859-4c82-9487-d9fb4f51d730" />
 </p>
+
 
 
 
