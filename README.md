@@ -16,7 +16,7 @@ Para esta ocasión se realiza un CRUD ( GET, POST, PUT, DELETE).
 IntelliJIDEA versión 2026.2 -JCEF version: 144.0.15-262-b37 - VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o
 
 
-🧪Escenarios de pruebas automatizados
+## 🧪Escenarios de pruebas automatizados
 - CRUD ( GET, POST, PUT, DELETE).
 <p align="center">
   <img width="1048" height="946" alt="image" src="https://github.com/user-attachments/assets/a13506f5-f4f5-4d50-b62f-4152b699499d" />
@@ -32,7 +32,7 @@ IntelliJIDEA versión 2026.2 -JCEF version: 144.0.15-262-b37 - VM: OpenJDK 64-Bi
 
   </p>
 
-  ## - Escenarios
+ ##  Escenarios
 - GET - Usuario
    <p align="center">
   <img width="1620" height="243" alt="image" src="https://github.com/user-attachments/assets/d460454b-6140-4dba-b06a-26e0acb6ad26" />
