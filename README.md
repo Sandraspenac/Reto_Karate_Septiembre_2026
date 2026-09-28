@@ -26,7 +26,7 @@ IntelliJIDEA versión 2026.2 -JCEF version: 144.0.15-262-b37 - VM: OpenJDK 64-Bi
 <img width="1041" height="938" alt="image" src="https://github.com/user-attachments/assets/c07760d8-26f5-49fe-821e-e93083af311a" />
   </p>
   
- 📊 Reportes
+ 📊 ### Reportes
  <p align="center">
    <img width="1919" height="1062" alt="image" src="https://github.com/user-attachments/assets/736ecd87-30aa-42da-9cf1-aa668966c107" />
 
