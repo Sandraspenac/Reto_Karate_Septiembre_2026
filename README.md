@@ -7,13 +7,13 @@ Este proyecto esta basado en el Freamework de Karate y comunicación de API de s
 Para esta ocasión se realiza un CRUD ( GET, POST, PUT, DELETE).
 
 
-##⚙️Prerequisitos de Intalación
+⚙️Prerequisitos de Intalación
 
 - Se utiliza java Coreto 21
 -  Maven
--  Getkin
+-  Gerkin
 -  Karate
-IntelliJIDEA versión 2026.2 -JCEF version: 144.0.15-262-b37 - VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o
+-  IntelliJIDEA versión 2026.2 -JCEF version: 144.0.15-262-b37 - VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o
 
 
 ## 🧪Escenarios de pruebas automatizados
@@ -26,7 +26,7 @@ IntelliJIDEA versión 2026.2 -JCEF version: 144.0.15-262-b37 - VM: OpenJDK 64-Bi
 <img width="1041" height="938" alt="image" src="https://github.com/user-attachments/assets/c07760d8-26f5-49fe-821e-e93083af311a" />
   </p>
   
- 📊 ### Reportes
+### 📊  Reportes
  <p align="center">
    <img width="1919" height="1062" alt="image" src="https://github.com/user-attachments/assets/736ecd87-30aa-42da-9cf1-aa668966c107" />
 
