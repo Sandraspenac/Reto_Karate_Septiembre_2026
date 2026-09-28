@@ -1,8 +1,8 @@
-# 🏠  Proyecto  - Reto Karate**﻿
+# 🏠  Proyecto Automatización - Framework Karate**﻿
 - 👨‍💻 Autor Sandra Milena Peña Castellanos🌟 - QA Analyst.
  
 
-Este proyecto esta basado en el Freamework de Karate y comunicación de API de servicios SOAP 
+Este proyecto esta basado en el Freamework de Karate y comunicación de API de servicios  
 Para esta ocasión se realiza un CRUD ( GET, POST, PUT, DELETE).
 
 
