@@ -47,7 +47,7 @@ Para esta ocasión se realiza un CRUD ( GET, POST, PUT, DELETE).
 <img width="1617" height="267" alt="image" src="https://github.com/user-attachments/assets/0fd07dc9-f561-404d-b847-289e469e061c" />
 </p>
 
-- DELETE
+- DELETE - Usuario
 <p align="center">
 <img width="1618" height="225" alt="image" src="https://github.com/user-attachments/assets/5ae8f25d-d859-4c82-9487-d9fb4f51d730" />
 </p>
