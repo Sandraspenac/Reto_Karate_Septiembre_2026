@@ -1,4 +1,4 @@
-# 🏠  Proyecto Automatización - Framework Karate**﻿
+# 🏠  Proyecto Automatización - Framework Karate
 - 👨‍💻 Autor Sandra Milena Peña Castellanos🌟 - QA Analyst.
  
 
